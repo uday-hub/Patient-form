@@ -9,7 +9,7 @@ import Card from "react-bootstrap/Card";
 import ListGroup from "react-bootstrap/ListGroup";
 import person from "./assets/person.jpg";
 import edit_icon from "./assets/edit_icon.svg";
-// import { ToastContainer, toast } from "react-toastify";
+import { ToastContainer, toast } from "react-toastify";
 // import "react-toastify/dist/ReactToastify.css";
 
 function GridComplexExample() {
